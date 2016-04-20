@@ -5,23 +5,21 @@ permalink: /
 
 # Course Syllabus
 
-**University of xxx**
+**Wake Forest University**
 
-**College**
+**MA - Counseling**
 
-**Unit**
+## CNS XXX
 
-## Course Number: Course Title
-
-**Semester Year**
+**Fall 2016**
 
 
-**Instructor: **Dr. ××**   
-**Office**: Building Number  
+**Instructor: **Allen S Brown**   
+**Office**: Reynolda 309  
 **Email**:  
 
 **Phone**:  
-**Office Hours**: Date, Time, Location  
+**Office Hours**: By appointment, via Webex  
 
 [Every Tuesday at 4:00 p.m. CST
 or by appointment or Virtual office hours available]
